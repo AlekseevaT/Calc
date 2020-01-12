@@ -1,0 +1,9 @@
+D:\Need\programming\WindowsFormsCalculator2.0\WindowsFormsCalculator2.0\bin\Debug\WindowsFormsCalculator2.0.exe.config
+D:\Need\programming\WindowsFormsCalculator2.0\WindowsFormsCalculator2.0\bin\Debug\WindowsFormsCalculator2.0.exe
+D:\Need\programming\WindowsFormsCalculator2.0\WindowsFormsCalculator2.0\bin\Debug\WindowsFormsCalculator2.0.pdb
+D:\Need\programming\WindowsFormsCalculator2.0\WindowsFormsCalculator2.0\obj\Debug\WindowsFormsCalculator2.0.csprojAssemblyReference.cache
+D:\Need\programming\WindowsFormsCalculator2.0\WindowsFormsCalculator2.0\obj\Debug\WindowsFormsCalculator2._0.Form1.resources
+D:\Need\programming\WindowsFormsCalculator2.0\WindowsFormsCalculator2.0\obj\Debug\WindowsFormsCalculator2._0.Properties.Resources.resources
+D:\Need\programming\WindowsFormsCalculator2.0\WindowsFormsCalculator2.0\obj\Debug\WindowsFormsCalculator2.0.csproj.GenerateResource.cache
+D:\Need\programming\WindowsFormsCalculator2.0\WindowsFormsCalculator2.0\obj\Debug\WindowsFormsCalculator2.0.exe
+D:\Need\programming\WindowsFormsCalculator2.0\WindowsFormsCalculator2.0\obj\Debug\WindowsFormsCalculator2.0.pdb
