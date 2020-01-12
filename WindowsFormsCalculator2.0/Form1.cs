@@ -108,8 +108,8 @@ namespace WindowsFormsCalculator2._0
             char[] sep = { ' ' };
             List<string> numb = new List<string>(res.Split(sep));
 
-            // все коментарии должны быть с новой строки.
-            //string[] numb = res.Split(sep);
+            //string[] numb = res.Split(sep); 
+            // without building.
             int size = numb.Count;
             rtbOutput.AppendText(" = ");
             double result = 0;
