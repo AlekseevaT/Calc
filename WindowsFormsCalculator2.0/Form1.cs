@@ -109,7 +109,7 @@ namespace WindowsFormsCalculator2._0
             List<string> numb = new List<string>(res.Split(sep));
 
             //string[] numb = res.Split(sep); 
-            // without building.
+            // without building.ssssssss
             int size = numb.Count;
             rtbOutput.AppendText(" = ");
             double result = 0;
